@@ -1,0 +1,19 @@
+{
+  "site_url": "https://aqxx.nju.edu.cn",
+  "cdp_url": "http://127.0.0.1:9222",
+  "graph_id": "",
+  "concurrency": 15,
+  "tab_open_interval": 1.0,
+  "separate_course_windows": false,
+  "course_limit": 0,
+  "post_end_wait": 15,
+  "verify_timeout": 60,
+  "stall_timeout": 120,
+  "poll_interval": 0.5,
+  "bank_path": "",
+  "output_root": "live_runs",
+  "browser_profile": "chromium-live-profile",
+  "browser_path": "",
+  "auth_storage_key": "",
+  "auth_header": "X-Access-Token"
+}
